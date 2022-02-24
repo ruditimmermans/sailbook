@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://codeberg.org/rudi.timmer/sailbook/src/branch/master/img/icon.png?raw=true" width="256px" alt="Sailbook">
+  <img src="https://codeberg.org/rudi.timmer/sailbook/raw/branch/master/img/icon.png" width="256px" alt="Sailbook">
   <br>
   <br>
   Sailbook
